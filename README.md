@@ -35,11 +35,11 @@ After the dependencies have been installed, you will need to populate your Mongo
 You will then need to go to the local host URL for the port that you have specified. Once loaded in the browser, you can click the dashboard page to view the workout stats on the graphs provided. You can add/contnue a workout by clicking the buttons to add or update a new workout on the home page. When adding a new workout, be sure to click complete once you have entered your data.
 
 ## Deployment
-Readme (web view): 
+Readme (web view): https://fjimenez51.github.io/Fit-Tracker/
 
-Github Repo: 
+Github Repo: https://github.com/fjimenez51/Fit-Tracker
 
-Heroku: 
+Heroku: https://shrouded-peak-75671.herokuapp.com/?id=60f44b5828cd5600150fbba9
 
 
 
